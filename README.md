@@ -61,7 +61,7 @@ I'm a backend-focused developer specialising in **ERPNext** and the **Frappe Fra
 | 🔌 [frappe-api-helpers](https://github.com/vishalparekh46/frappe-api-helpers) | Utility library for common ERPNext REST API patterns | Python |
 
 ---
-
+<!-- 
 ## 🤝 Open Source Contributions
 
 I actively contribute to the Frappe ecosystem. Some areas I focus on:
@@ -82,7 +82,7 @@ If you're building on ERPNext and want to collaborate, feel free to open an issu
 </p>
 
 ---
-
+-->
 ## 📫 Let's Connect
 
 If you're working on an ERPNext project, looking for Frappe expertise, or want to collaborate on open source — I'd love to hear from you.
