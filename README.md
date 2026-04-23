@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishalparekh46"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aavatto.com"><img src="https://img.shields.io/badge/Website-aavatto.com-informational?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:vishal@aavatto.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discuss.frappe.io"><img src="https://img.shields.io/badge/Frappe_Forum-00BCD4?style=for-the-badge&logo=discourse&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vishalparekh46" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aavatto.com" target="_blank"><img src="https://img.shields.io/badge/Website-aavatto.com-informational?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:vishal@aavatto.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discuss.frappe.io/u/vishal_aavatto" target="_blank"><img src="https://img.shields.io/badge/Frappe_Forum-00BCD4?style=for-the-badge&logo=discourse&logoColor=white"/></a>
 </p>
 
 ---
